@@ -10,6 +10,6 @@ app.get('/posts',(req,res)=> {
   res.send('we are on posts')
 })
 
-// port
+// port for
 app.listen(3000);
 
